@@ -1,0 +1,9 @@
+--extra-index-url https://pytorch.org
+torch==2.3.0
+torchvision==0.18.0
+torchtext==0.18.0
+numpy
+jupyter
+ipykernel
+matplotlib
+pandas
